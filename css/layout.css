@@ -65,3 +65,37 @@ body {
     grid-row: 4 / 5;
     background-color: cornsilk;
 }
+
+@media screen and (max-width: 900px) {
+.a { 
+    background-color: red;
+}
+.b {
+     background-color: green;
+    }
+.c {
+     background-color: yellow;
+    }
+.d {
+     background-color: purple;
+    }
+.e { 
+    background-color: orange;
+}
+.f {
+     background-color: teal;
+    }
+.g { 
+    background-color: magenta;
+}
+.h {
+     background-color: cornsilk;
+    }
+.i { 
+    background-color: blue;
+}
+}
+
+/* @media all and (max-width: 400px) {
+
+} */
